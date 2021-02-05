@@ -1,0 +1,2 @@
+Este archivo es una copia
+Es una copia del test1.txt
